@@ -1,0 +1,350 @@
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.MvcApplicationPartsAssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorAssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.StaticWebAssets.xml
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.exe
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.deps.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.runtimeconfig.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.runtimeconfig.dev.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.Views.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.Views.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\staticwebassets\Controle_Escolas_e_Alunos.StaticWebAssets.Manifest.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\staticwebassets\Controle_Escolas_e_Alunos.StaticWebAssets.xml
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\scopedcss\bundle\Controle_Escolas_e_Alunos.styles.css
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.TagHelpers.input.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.TagHelpers.output.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorCoreGenerate.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Create.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Delete.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Details.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Edit.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Index.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Create.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Delete.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Details.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Edit.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Index.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorTargetAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorTargetAssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.Views.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.genruntimeconfig.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.csproj.CopyComplete
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.StaticWebAssets.xml
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.exe
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.deps.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.runtimeconfig.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.runtimeconfig.dev.json
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.Views.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.Views.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.MvcApplicationPartsAssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorAssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\staticwebassets\Controle_Escolas_e_Alunos.StaticWebAssets.Manifest.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\staticwebassets\Controle_Escolas_e_Alunos.StaticWebAssets.xml
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\scopedcss\bundle\Controle_Escolas_e_Alunos.styles.css
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.TagHelpers.input.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.TagHelpers.output.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorCoreGenerate.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Create.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Delete.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Details.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Edit.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Alunos\Index.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Create.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Delete.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Details.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Edit.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Escolas\Index.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorTargetAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.RazorTargetAssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.Views.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.dll
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.pdb
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.genruntimeconfig.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle_Escolas_e_Alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle_Escolas_e_Alunos.csproj.CopyComplete

@@ -1,0 +1,9 @@
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.csproj.AssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.MvcApplicationPartsAssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.MvcApplicationPartsAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.RazorAssemblyInfo.cache
+D:\PROGRAMAÇÃO\C#\ws-vs2019\Controle escolas e alunos\Controle_Escolas_e_Alunos\obj\Debug\netcoreapp3.1\Controle Escolas e Alunos.RazorAssemblyInfo.cs

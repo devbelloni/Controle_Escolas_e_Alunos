@@ -1,0 +1,36 @@
+﻿@model Controle_Escolas_e_Alunos.Models.Escolas
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <h4>Escolas</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.EscolasId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EscolasId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Registro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Registro)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Escola)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Escola)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.EscolasId">Editar</a> |
+    <a asp-action="Index">Voltar para a lista</a>
+</div>

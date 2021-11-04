@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Controle_Escolas_e_Alunos.Models.Escolas>
+
+@{
+    ViewData["Title"] = "Escolas Cadastradas";
+}
+
+<h1>Escolas Cadastradas</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EscolasId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Registro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Escola)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EscolasId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Registro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Escola)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.EscolasId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.EscolasId">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.EscolasId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
